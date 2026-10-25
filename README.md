@@ -1,6 +1,6 @@
 # Chip8.js
 
-Implementación de Chip8 en JavaScript.
+CHIP-8 emulator in JavaScript
 
 ## Screenshots
 
